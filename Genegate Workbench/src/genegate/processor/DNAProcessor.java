@@ -1,6 +1,5 @@
 package genegate.processor;
 
-import genegate.SeqRefs;
 import java.lang.ArithmeticException;
 import java.text.DecimalFormat;
 import java.util.Map;
